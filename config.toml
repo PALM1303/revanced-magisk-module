@@ -25,8 +25,7 @@ apkmirror-arch = "arm64-v8a"
 
 [Twitter]
 cli-source = "ReVanced/revanced-cli"
-archive-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
-version = "latest"
+archive-dlurl = "https://downloadr2.apkmirror.com/wp-content/uploads/2023/12/62/656f6a69e06b6/com.twitter.android_10.19.0-release.0-310190000_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk?verify=1702153574-x8bN4pWu_C7NUF32V_AteRwJduu_LfrGz8it4keHR_4"
 
 [TikTok]
 cli-source = "ReVanced/revanced-cli"
@@ -35,9 +34,7 @@ version = "latest"
 
 [Facebook]
 cli-source = "ReVanced/revanced-cli"
-apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/facebook/"
-apkmirror-arch = "arm64-v8a"
-version = "latest"
+apkmirror-dlurl ="https://downloadr2.apkmirror.com/wp-content/uploads/2023/12/23/6570f25f9c194/com.facebook.katana_443.0.0.23.229-447626366_minAPI30(arm64-v8a)(nodpi)_apkmirror.com.apk?verify=1702153480-ouclceZBHLmr2Eq8UVsbGyA5CjweC_O7FQk4x7BA7hs"
 
 [Messenger]
 cli-source = "ReVanced/revanced-cli"
