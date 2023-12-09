@@ -26,9 +26,11 @@ apkmirror-arch = "arm64-v8a"
 
 [Twitter]
 archive-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
+apkmirror-arch = "arm64-v8a"
 
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+apkmirror-arch = "arm64-v8a"
 
 [Facebook]
 apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/facebook/"
@@ -39,7 +41,7 @@ apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/messenger/"
 apkmirror-arch = "arm64-v8a"
 
 [Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android/"
 
 [Instagram]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
