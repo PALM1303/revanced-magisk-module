@@ -24,29 +24,35 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 apkmirror-arch = "arm64-v8a"
 
 [Twitter]
-archive-dlurl = "https://twitter.en.uptodown.com/android"
-apkmirror-arch = "arm64-v8a"
+cli-source = "ReVanced/revanced-cli"
+archive-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 
 [TikTok]
+cli-source = "ReVanced/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 apkmirror-arch = "arm64-v8a"
 
 [Facebook]
-apkmirror-dlurl ="https://facebook.en.uptodown.com/android"
+cli-source = "ReVanced/revanced-cli"
+apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/facebook/"
 apkmirror-arch = "arm64-v8a"
 
 [Messenger]
+cli-source = "ReVanced/revanced-cli"
 apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/messenger/"
 apkmirror-arch = "arm64-v8a"
 
 [Spotify]
+cli-source = "ReVanced/revanced-cli"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 apkmirror-arch = "arm64-v8a"
 
 [Instagram]
+cli-source = "ReVanced/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 apkmirror-arch = "arm64-v8a"
 
 [pixiv]
+cli-source = "ReVanced/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 apkmirror-arch = "arm64-v8a"
