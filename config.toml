@@ -26,16 +26,20 @@ apkmirror-arch = "arm64-v8a"
 [Twitter]
 cli-source = "ReVanced/revanced-cli"
 archive-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
+version = "10.19.0-release.0"
+apkmirror-arch = "all"
 
 [TikTok]
 cli-source = "ReVanced/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-apkmirror-arch = "arm64-v8a"
+apkmirror-arch = "all"
+version = "latest"
 
 [Facebook]
 cli-source = "ReVanced/revanced-cli"
 apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/facebook/"
 apkmirror-arch = "arm64-v8a"
+version = "latest"
 
 [Messenger]
 cli-source = "ReVanced/revanced-cli"
