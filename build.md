@@ -1,11 +1,11 @@
 YouTube: 18.45.43  
 Music: 6.31.55  
-Twitter: 10.19.0-release.0  
-Facebook: 442.0.0.44.114  
 TikTok: 30.8.4  
+Facebook: 442.0.0.44.114  
 Messenger: 437.0.0.26.230  
 Instagram: 275.0.0.27.98  
 pixiv: 6.93.0  
+Twitter: 10.19.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
