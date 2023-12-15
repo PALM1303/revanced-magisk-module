@@ -1,7 +1,7 @@
 YouTube: 18.45.43  
 Music: 6.31.55  
-TikTok: 32.5.3  
 Twitter: 10.20.0-release.0  
+TikTok: 32.5.3  
 Facebook: 444.0.0.31.114  
 Instagram: 275.0.0.27.98  
 pixiv: 6.94.0  
