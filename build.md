@@ -1,7 +1,8 @@
 YouTube: 18.45.43  
-Twitter: 10.21.1-release.0  
-TikTok: 32.5.3  
 Facebook: 445.0.0.34.118  
+TikTok: 32.5.3  
+Twitter: 10.21.1-release.0  
+Messenger: 439.0.0.29.119  
 Spotify: 8.8.96.364  
 pixiv: 6.94.0  
 
