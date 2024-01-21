@@ -1,6 +1,7 @@
 YouTube: 18.45.43  
-pixiv: 6.95.0  
 TikTok: 32.5.3  
+Facebook: 446.0.0.27.352  
+pixiv: 6.95.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
