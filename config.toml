@@ -12,8 +12,8 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+#archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "arm64-v8a"
 
 [YouTube]
@@ -26,7 +26,8 @@ apkmirror-arch = "arm64-v8a"
 
 [Twitter]
 cli-source = "ReVanced/revanced-cli"
-uptodown-dlurl = "https://twitter.th.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=twitter"
+#uptodown-dlurl = "https://twitter.th.uptodown.com/android"
 included-patches = "'Hide ads'"
 
 [TikTok]
@@ -40,9 +41,9 @@ apkmirror-arch = "arm64-v8a"
 
 [Messenger]
 cli-source = "ReVanced/revanced-cli"
-#apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/messenger/"
-#apkmirror-arch = "arm64-v8a"
-uptodown-dlurl = "https://facebook-messenger.th.uptodown.com/android"
+apkmirror-dlurl ="https://www.apkmirror.com/apk/facebook-2/messenger/"
+apkmirror-arch = "arm64-v8a"
+#uptodown-dlurl = "https://facebook-messenger.th.uptodown.com/android"
 
 [Spotify] #No Remove Ads
 cli-source = "ReVanced/revanced-cli"
@@ -51,9 +52,9 @@ uptodown-dlurl = "https://spotify.th.uptodown.com/android"
 
 [Instagram]
 cli-source = "ReVanced/revanced-cli"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
-#apkmirror-arch = "arm64-v8a"
-uptodown-dlurl = "https://instagram.th.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+apkmirror-arch = "arm64-v8a"
+#uptodown-dlurl = "https://instagram.th.uptodown.com/android"
 
 [pixiv]
 cli-source = "ReVanced/revanced-cli"
